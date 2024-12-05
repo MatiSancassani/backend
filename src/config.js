@@ -10,7 +10,7 @@ const config = {
 
     get UPLOAD_DIR() { return path.join(this.DIRNAME, 'public', 'uploads'); },
     SERVER_UPLOAD_PATH: 'https://final-back-o0ty.onrender.com/static/uploads',
-    MONGODB_URI: ('mongodb+srv://matisancassani:mati123@cluster0.lcblgku.mongodb.net/ecommerce'),
+    MONGODB_URI: ('mongodb+srv://matisancassani:sanca123@cluster0.lcblgku.mongodb.net/ecommerce'),
     MODE: 'dev',
     APP_NAME: 'token',
     SECRET: 'cod3r',
